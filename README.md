@@ -31,4 +31,16 @@ List of books that I have read and recommend to others. The books cover topics l
 - [**Zero To One**](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel <br>
   *"Notes on Start Ups, or How to Build the Future"* <br>
   Recommended for Executives, Manager and Entrepreneurs
-  
+
+## Tips
+Here are some tips of mine that might help you
+- When I read such kind of books, I always take notes and work with the book instead of just consuming it.
+  - What is the message or basic idea of the book?
+  - Has the book revealed blind spots?
+- Books that have given me a lot of knowledge, I like to read several times: 
+  - The first time to learn about the topic.
+  - Each further time, to compare my knowledge, skills and experiences.
+  - Are there lacks of understanding? Can I already apply the topics? What are missing skills? 
+- When applying the contents, be careful which culture (country, company, life style, etc.) the author comes from.
+  - Sometimes the author has views or approaches that may work slightly differently in your culture to help you move forward.
+  - If sometimes it doesn't work, it can also be a cultural problem.
