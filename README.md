@@ -37,12 +37,14 @@ List of books that I have read and recommend to others. The books cover topics l
 ## Tips
 Here are some tips of mine that might help you
 - When I read such kind of books, I always take notes and work with the book instead of just consuming it.
-  - What is the message or basic idea of the book?
+  - What is the message of the book?
+  - What are the basic ideas?
   - Has the book revealed blind spots?
+  - What are missing skills I need to learn to apply the described points?
 - Books that have given me a lot of knowledge, I like to read several times: 
-  - The first time to learn about the topic.
-  - Each further time, to compare my knowledge, skills and experiences.
-  - Are there lacks of understanding? Can I already apply the topics? What are missing skills? 
-- When applying the contents, be careful which culture (country, company, life style, etc.) the author comes from.
-  - Sometimes the author has views or approaches that may work slightly differently in your culture to help you move forward.
-  - If sometimes it doesn't work, it can also be a cultural problem.
+  - The first time for learning the basics about the topic to build a solid foundation.
+  - Each further time, to compare my knowledge, skills and experiences in order to grow at a specific topic.
+  - Are there lacks of understanding? Do or can I already apply the topics? What are missing skills I need to develop? 
+- When applying the content, be careful which culture (country, company, life style, etc.) the author comes from.
+  - Sometimes the author has views or approaches that may work differently in your culture for moving forward.
+  - Check whether the content works for you or not. If it's doesn't work, it's maybe a cultural problem and some modifications are necessary.
