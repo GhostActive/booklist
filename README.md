@@ -10,7 +10,7 @@ List of books that I have read and recommend to others. The books cover topics l
   Recommended for Executives, Manager and Entrepreneurs
   
 - [**Measure What Matters**](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) by John Doerr <br>
-  *"OKRs - The Simple Idea That Drives 10x Growth"*
+  *"OKRs - The Simple Idea That Drives 10x Growth"* <br>
   Recommended for Executives and Manager
 
 - [**The Effective Executive**](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter F. Drucker <br>
