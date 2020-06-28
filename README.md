@@ -2,6 +2,8 @@
 
 List of books that I have read and recommend to others. The books cover topics like personal development, (self) management and entrepreneurship.
 
+## Books
+
 - [**Atomic Habits**](https://jamesclear.com/atomic-habits) by James Clark <br>
   *"Tiny Changes, Remarkable  Results - An Easy & Proven Way to Build Good Habits & Break Bad Ones"*
 
