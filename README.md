@@ -1,6 +1,6 @@
 # Booklist
 
-List of books that I have read and recommend to others. The books cover topics like personal development, (self) management and entrepreneurship.
+This page contains a list of books that I have read and can recommend to others. The list covers topics like personal development, self improvement on the on side and (self) management as well as entrepreneurship on the other one. For both areas I have named a personal top 3 for each, in case you are undecided where you can best start. All other entries follow in alphabetical order. You don't have to read the books in the listed order - feel completely free to choose.
 
 ## Books for Personal Development
 
