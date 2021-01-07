@@ -60,6 +60,6 @@ If you are a beginner, the following section shows briefly some tips that suppor
 
 - Read (good) books multiple times. One characteristic of good books is that they provide new and deeper insights even after being read more than once. The first time for learning the basics about the topic to build a solid foundation. Each further time, to compare existing knowledge, skills and experiences in order to grow at a specific topic. There should be a few months between each run to allow the knowledge to be processed sufficiently.
 
-- Change and progress take time - don't force it. Also, consider the culture and context which the author use. In most cases, the content must be adapted to the current one.
+- Change and progress take time - don't force it. Especially in the beginning, it is sneaky trap to overload oneself by taking too much in too short a time. In the beginning, it is important to find the balance between needed effort and breaks to relax. Also, consider the author's culture and context. In most cases, the content must be adapted to the current one.
 
 - Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new views.
