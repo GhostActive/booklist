@@ -62,4 +62,6 @@ If you are a beginner, the following section shows briefly some tips that suppor
 
 - Change and progress take time - Don't force it. Especially in the beginning, it's a sneaky trap to overload oneself by taking too much in too short a time. Therefore, it's important to find the balance between needed effort and breaks to relax. Also, consider the author's culture and context - Maybe things works different. In most cases, the content must be adapted to the current one.
 
+- *"To really understand the content"* means to be able to apply it and producing meaningful results - No smoke and mirrors. Building skills often take years.
+
 - Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new views.
