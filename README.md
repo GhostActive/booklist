@@ -54,12 +54,12 @@ This page represents a list of personal recommanded books. The list covers topic
 
 If you are a beginner, the following section shows briefly some tips that support reading.
 
-- Work with the books instead of just consuming them. Working with the book means being clear about what the core ideas are and how they can be implemented in daily life to make progress as well as changes. What are the missing skills that need to be learned to fulfill the points described?
+- Take notes to summarize (for quick look-up later) and think about the most important content.
 
-- Take notes to summarize the most important content (for quick look-up later).
+- Work with the books instead of just consuming them. *"Working with a book"* means to become clear about the core ideas/principles and (how to) implement them in daily life - Proactively gain necessary knowledge and skills.
 
-- Read (good) books multiple times. One characteristic of good books is that they provide new and deeper insights even after being read more than once. The first time for learning the basics about the topic to build a solid foundation. Each further time, to compare existing knowledge, skills and experiences in order to grow at a specific topic. There should be a few months between each run to allow the knowledge to be processed sufficiently.
+- Read (good) books multiple times. One characteristic of good books is that they provide new and deeper insights after being read more than once. The first reading should be used to build a foundation. All further times to strengthen the foundation and go deeper into the topic. However, there should be at least a couple of months between repetitions in order to process the knowledge and to gain new experience.
 
-- Change and progress take time - don't force it. Especially in the beginning, it is sneaky trap to overload oneself by taking too much in too short a time. In the beginning, it is important to find the balance between needed effort and breaks to relax. Also, consider the author's culture and context. In most cases, the content must be adapted to the current one.
+- Change and progress take time - Don't force it. Especially in the beginning, it's a sneaky trap to overload oneself by taking too much in too short a time. Therefore, it's important to find the balance between needed effort and breaks to relax. Also, consider the author's culture and context - Maybe things works different. In most cases, the content must be adapted to the current one.
 
 - Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new views.
