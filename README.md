@@ -8,6 +8,7 @@ This page represents a list of personal recommanded books. The list covers topic
 
 - [Personal Development](#personal-development)
 - [Entrepreneurship and Management](#entrepreneurship-and-management)
+- [Notes for Reading](#notes-for-reading)
 
 ### Personal Development
 
@@ -15,7 +16,7 @@ This page represents a list of personal recommanded books. The list covers topic
    <br>
    The Surprisingly Simple Truth Behind Extraordinary Results
 
-2. [*Atomic Habits*](https://jamesclear.com/atomic-habits) by James Clark
+2. [*Atomic Habits*](https://jamesclear.com/atomic-habits) by James Clear
    <br>
    Tiny Changes, Remarkable  Results - An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
@@ -48,3 +49,17 @@ This page represents a list of personal recommanded books. The list covers topic
 - [*Zero To One*](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel
   <br>
   Notes on Start Ups, or How to Build the Future
+
+### Notes for Reading
+
+If you are a beginner, the following section shows briefly some tips that support reading.
+
+- Work with the books instead of just consuming them. Working with the book means being clear about what the core ideas are and how they can be implemented in daily life to make progress as well as changes. What are the missing skills that need to be learned to fulfill the points described?
+
+- Take notes to summarize the most important content (for quick look-up later).
+
+- Read (good) books multiple times. One characteristic of good books is that they provide new and deeper insights even after being read more than once. The first time for learning the basics about the topic to build a solid foundation. Each further time, to compare existing knowledge, skills and experiences in order to grow at a specific topic. There should be a few months between each run to allow the knowledge to be processed sufficiently.
+
+- Change and progress take time - don't force it. Also, consider the culture and context which the author use. In most cases, the content must be adapted to the current one.
+
+- Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new views.
