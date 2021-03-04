@@ -11,7 +11,7 @@ This page represents a list of personal recommanded books. The list covers topic
 
 - [Personal Development](#personal-development)
 - [Entrepreneurship and Management](#entrepreneurship-and-management)
-- [Notes for Reading](#notes-for-reading) (for beginners)
+- [Notes for Reading](#notes-for-reading)
 
 ### Personal Development
 
