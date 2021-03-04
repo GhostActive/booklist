@@ -68,3 +68,5 @@ If you are a beginner, the following section shows briefly some tips that suppor
 - *"To really understand the content"* means to be able to apply it and producing meaningful results - No smoke and mirrors. Building skills often take years.
 
 - Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new views.
+
+[![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
