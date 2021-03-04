@@ -1,6 +1,9 @@
-> **Disclaimer**: The publishers and books mentioned in the repository are personal recommendations that don't bring any provision.
-
 # Booklist
+
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/GhostActive/booklist)
+[![Version v1.0](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/GhostActive/booklist)
+
+> **Disclaimer**: The publishers and books mentioned in the repository are personal recommendations that don't bring any provision.
 
 This page represents a list of personal recommanded books. The list covers topics like personal development, self improvement, (self) management and entrepreneurship. For beginners, each book category contains three books to start. However, you don't have to read the books in the given order - feel free to choose.
 
