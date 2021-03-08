@@ -55,18 +55,20 @@ This page represents a list of personal recommanded books. The list covers topic
 
 ### Notes for Reading
 
-If you are a beginner, the following section shows briefly some tips that support reading.
+The following section shows briefly some tips to support reading.
 
-- Take notes to summarize (for quick look-up later) and think about the most important content.
+- Work with a book instead of just consuming it. *"Working with a book"* means to become clear about the core ideas/principles and how to implement them in daily life.
 
-- Work with the books instead of just consuming them. *"Working with a book"* means to become clear about the core ideas/principles and (how to) implement them in daily life - Proactively gain necessary knowledge and skills.
+- Take notes to summarize the content (also for later look-up quickly) and think about the most important points.
 
-- Read (good) books multiple times. One characteristic of good books is that they provide new and deeper insights after being read more than once. The first reading should be used to build a foundation. All further times to strengthen the foundation and go deeper into the topic. However, there should be at least a couple of months between repetitions in order to process the knowledge and to gain new experience.
+- *"To become clear about the content"* means to be able to apply the topics in real world producing meaningful results - No smoke and mirrors. Building skills often take months or even years.
 
-- Change and progress take time - Don't force it. Especially in the beginning, it's a sneaky trap to overload oneself by taking too much in too short a time. Therefore, it's important to find the balance between needed effort and breaks to relax. Also, consider the author's culture and context - Maybe things works different. In most cases, the content must be adapted to the current one.
+- Read good books multiple times. Good books provide new and deeper insights after being read more than once. The first reading should be used to build a foundation. All further times to strengthen the foundation and go deeper into the topic. However, there should be at least a couple of months between repetitions in order to process the knowledge.
 
-- *"To really understand the content"* means to be able to apply it and producing meaningful results - No smoke and mirrors. Building skills often take years.
+- The learning process takes time - Don't rush things or force them. Especially in the beginning, it's a sneaky trap to overload oneself by taking too much in too short a time. Therefore, it's important to find the balance between required effort and breaks to relax.
 
-- Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new views.
+- Consider the author's culture and context. Maybe things works different within your circumstances and must be adapted.
+
+- Talk to other people with similar opinions about the topics, but don't be disappointed if they disagree. A good discussion can provide new perspectives.
 
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
